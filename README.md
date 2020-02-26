@@ -1,3 +1,5 @@
+Credits for the MSVC fix of libbase58 go to https://github.com/jasny. I copied his changes from a pull request.
+
 Initialisation
 --------------
 
